@@ -6,7 +6,7 @@ By Chief
 
 24 November 2026
 <!-- controllables:2026-11-24:start -->
-<!-- controllables:2026-11-24:revision:7 -->
+<!-- controllables:2026-11-24:revision:8 -->
 1st8000days: 5/8
 - [x] Deliberate learning
 - [x] Social connection · 1 action
@@ -16,7 +16,7 @@ By Chief
 - [x] Dental hygiene · 1 action
 - [ ] Sleep discipline
 - [ ] 4-hour Food Cutoff
-Learning: 122 min. Exercise: 62 min.
+Learning: 152 min. Exercise: 62 min.
 <!-- controllables:2026-11-24:end -->
 Dental hygiene: +1 action. <!-- controllable-entry:8f8f7ad3-adc6-42be-82b0-01f8b43e5cd3 -->
 Professional outreach: +1 action. <!-- controllable-entry:a2020d6d-2ac3-4b8e-9175-2c6c4f36d1a0 -->
