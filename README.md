@@ -1,2 +1,7 @@
 # Everydays
-Beeple Light
+By Chief
+
+24 November 2026
+
+
+
