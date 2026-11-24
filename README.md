@@ -5,6 +5,19 @@ By Chief
 
 
 24 November 2026
+<!-- controllables:2026-11-24:start -->
+<!-- controllables:2026-11-24:revision:1 -->
+The Controllables: 1/8
+- [ ] Physical training
+- [ ] Nutrition
+- [x] Deliberate learning
+- [ ] Professional outreach
+- [ ] Social connection
+- [ ] Eating window
+- [ ] Dental hygiene
+- [ ] Sleep discipline
+Learning: 122 min. Exercise: 0 min.
+<!-- controllables:2026-11-24:end -->
 
 
 
