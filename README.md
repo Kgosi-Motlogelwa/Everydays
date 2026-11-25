@@ -6,18 +6,19 @@ By Chief
 
 25 November 2026
 <!-- controllables:2026-11-25:start -->
-<!-- controllables:2026-11-25:revision:6 -->
-1st8000days: 4/8
+<!-- controllables:2026-11-25:revision:7 -->
+1st8000days: 5/8
 - [x] Deliberate learning
 - [x] Social connection · 1 action
 - [x] Physical training
-- [ ] Professional outreach
+- [x] Professional outreach · 1 action
 - [ ] Eating Window
 - [ ] Dental hygiene
 - [x] Sleep discipline · 1 action
 - [ ] 4-hour Food Cutoff
 Learning: 62 min. Exercise: 2 min.
 <!-- controllables:2026-11-25:end -->
+Professional outreach: +1 action. <!-- controllable-entry:9db9c615-6e01-4bed-9e02-0472443b64ae -->
 Physical training: +2 min. <!-- controllable-entry:d2805887-c536-459b-aa91-0fbd64487039 -->
 Social connection: +1 action. <!-- controllable-entry:bed4ced9-e6bf-478f-aa51-340b8eae57db -->
 Sleep discipline: +1 action. <!-- controllable-entry:47e479f0-2fa4-49b8-983a-cfa24452ebee -->
