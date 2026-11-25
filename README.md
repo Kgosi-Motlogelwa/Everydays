@@ -6,10 +6,10 @@ By Chief
 
 25 November 2026
 <!-- controllables:2026-11-25:start -->
-<!-- controllables:2026-11-25:revision:1 -->
-1st8000days: 1/8
+<!-- controllables:2026-11-25:revision:2 -->
+1st8000days: 2/8
 - [ ] Deliberate learning
-- [ ] Social connection
+- [x] Social connection · 1 action
 - [ ] Physical training
 - [ ] Professional outreach
 - [ ] Eating Window
@@ -18,6 +18,7 @@ By Chief
 - [ ] 4-hour Food Cutoff
 Learning: 0 min. Exercise: 0 min.
 <!-- controllables:2026-11-25:end -->
+Social connection: +1 action. <!-- controllable-entry:bed4ced9-e6bf-478f-aa51-340b8eae57db -->
 Sleep discipline: +1 action. <!-- controllable-entry:47e479f0-2fa4-49b8-983a-cfa24452ebee -->
 
 24 November 2026
