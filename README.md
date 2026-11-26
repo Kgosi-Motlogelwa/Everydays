@@ -4,6 +4,21 @@
 By Chief
 
 
+26 November 2026
+<!-- controllables:2026-11-26:start -->
+<!-- controllables:2026-11-26:revision:1 -->
+1st8000days: 1/8
+- [x] Deliberate learning
+- [ ] Social connection
+- [ ] Physical training
+- [ ] Professional outreach
+- [ ] Eating Window
+- [ ] Dental hygiene
+- [ ] Sleep discipline
+- [ ] 4-hour Food Cutoff
+Learning: 2 min. Exercise: 0 min.
+<!-- controllables:2026-11-26:end -->
+
 25 November 2026
 <!-- controllables:2026-11-25:start -->
 <!-- controllables:2026-11-25:revision:9 -->
