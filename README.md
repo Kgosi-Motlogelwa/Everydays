@@ -6,8 +6,8 @@ By Chief
 
 27 November 2026
 <!-- controllables:2026-11-27:start -->
-<!-- controllables:2026-11-27:revision:4 -->
-1st8000days: 4/8
+<!-- controllables:2026-11-27:revision:5 -->
+1st8000days: 5/8
 - [x] Deliberate learning
 - [x] Social connection · 1 action
 - [ ] Professional outreach
@@ -15,9 +15,10 @@ By Chief
 - [x] Physical training
 - [ ] Nutrition
 - [x] Dental hygiene · 1 action
-- [ ] Sleep discipline
+- [x] Sleep discipline · 1 action
 Learning: 2 min. Exercise: 2 min. Setswana: 0 min.
 <!-- controllables:2026-11-27:end -->
+Sleep discipline: +1 action. <!-- controllable-entry:fc880880-be82-434f-a82c-aea6cb51ea5c -->
 Dental hygiene: +1 action. <!-- controllable-entry:8d985a6f-c3d2-454d-a3c1-4abf63702da1 -->
 Physical training: +2 min. <!-- controllable-entry:214c46d6-3537-403a-8246-7abccc98dca6 -->
 Social connection: +1 action. <!-- controllable-entry:d104dbc3-8ef1-47d6-aa3f-4ece9cc6f859 -->
