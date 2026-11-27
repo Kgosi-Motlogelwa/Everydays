@@ -6,18 +6,19 @@ By Chief
 
 27 November 2026
 <!-- controllables:2026-11-27:start -->
-<!-- controllables:2026-11-27:revision:3 -->
-1st8000days: 3/8
+<!-- controllables:2026-11-27:revision:4 -->
+1st8000days: 4/8
 - [x] Deliberate learning
 - [x] Social connection · 1 action
-- [x] Physical training
 - [ ] Professional outreach
-- [ ] Eating Window
-- [ ] Dental hygiene
+- [ ] Setswana
+- [x] Physical training
+- [ ] Nutrition
+- [x] Dental hygiene · 1 action
 - [ ] Sleep discipline
-- [ ] 4-hour Food Cutoff
-Learning: 2 min. Exercise: 2 min.
+Learning: 2 min. Exercise: 2 min. Setswana: 0 min.
 <!-- controllables:2026-11-27:end -->
+Dental hygiene: +1 action. <!-- controllable-entry:8d985a6f-c3d2-454d-a3c1-4abf63702da1 -->
 Physical training: +2 min. <!-- controllable-entry:214c46d6-3537-403a-8246-7abccc98dca6 -->
 Social connection: +1 action. <!-- controllable-entry:d104dbc3-8ef1-47d6-aa3f-4ece9cc6f859 -->
 
