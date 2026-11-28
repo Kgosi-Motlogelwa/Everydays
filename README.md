@@ -6,18 +6,19 @@ By Chief
 
 28 November 2026
 <!-- controllables:2026-11-28:start -->
-<!-- controllables:2026-11-28:revision:2 -->
+<!-- controllables:2026-11-28:revision:3 -->
 1st8000days: 2/8
 - [x] Deliberate learning
 - [ ] Social connection
 - [ ] Professional outreach
 - [ ] Setswana
 - [ ] Physical training
-- [x] Nutrition · 1 action
+- [x] Nutrition · 2 actions
 - [ ] Dental hygiene
 - [ ] Sleep discipline
 Learning: 2 min. Exercise: 0 min. Setswana: 0 min.
 <!-- controllables:2026-11-28:end -->
+Nutrition: +1 action. <!-- controllable-entry:7f558139-4ac3-433f-8251-fabc4c2b89bb -->
 Nutrition: +1 action. <!-- controllable-entry:cb5677e3-4cee-4fe1-8362-b1663f8be2b8 -->
 
 27 November 2026
